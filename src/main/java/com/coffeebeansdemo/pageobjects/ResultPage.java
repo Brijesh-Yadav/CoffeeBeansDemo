@@ -35,5 +35,11 @@ public class ResultPage extends BaseClass {
 //			}
 		}
 	}
+	
+	
+	public void returnWebElementRef_flightResult(){
+		String ele1  = "//*[@id='root']/div/main/div/div/div[2]/div[2]/div[10]/div[1]/div[1]/div/div/div[1]";
+		
+	}
 
 }
